@@ -58,16 +58,16 @@ X17: Bill Statement for April 2005
 
 For X18-X23, the Amount Paid is in NT Dollars
 
-X12: Amount Paid for September 2005
+X18: Amount Paid for September 2005
 
-X13: Amount Paid for August 2005
+X19: Amount Paid for August 2005
 
-X14: Amount Paid for July 2005
+X20: Amount Paid for July 2005
 
-X15: Amount Paid for June 2005
+X21: Amount Paid for June 2005
 
-X16: Amount Paid for May 2005
+X22: Amount Paid for May 2005
 
-X17: Amount Paid for April 2005
+X23: Amount Paid for April 2005
 
 
